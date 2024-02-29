@@ -1,0 +1,9 @@
+1,Rideway1,2020-11-1,989,Cipariu,parked
+2,Rideway2,2020-12-1,221,Strada Buzias 10,reserved
+3,Rideway4,2022-4-1,297,Strada Cipariu 1,parked
+4,Rideway4,2021-3-1,300,Strada Avram 5,in use
+5,Rideway2,2023-7-1,230,Strada Bucuresti 3,parked
+7,Rideway4,2021-5-1,791,Strada Avram 5,reserved
+8,Rideway1,2020-9-1,800,Strada Buzias 10,reserved
+9,Rideway1,2020-8-11,400,avram,reserved
+10,Rideway2,2019-8-11,700,cipariu,reserved
